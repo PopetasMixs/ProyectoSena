@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.encabezado{
+    background-color: #143d59;
+    display: flex;
+    padding: 5px;
+    color:#ffffff;
+}
+.encabezado img {
+    width: 25x;
+    height: 25px;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.encabezado .logo {
+    padding: 5px;
+    margin-left: 5px;
+}
+.encabezado input{
+    font-weight: lighter;
+    padding: auto;
+    margin: auto;
+    width: 45%;
+    text-align: left;
+    border:0 ;
+    border-radius: 10px;
+    outline: 0;
+    font-size: 20px;
+}
+.encabezado p{
+    margin-top: 8px;
+}
+.menu {
+    display: flex;
+    list-style: none;
+}
