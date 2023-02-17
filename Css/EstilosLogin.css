@@ -63,6 +63,7 @@ footer ul li{
     background-color: #0a3c5e;
     padding-top: 15px;
     display: block;
+    border-radius: 15px;
 }
 .login h2{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
